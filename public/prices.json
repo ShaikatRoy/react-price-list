@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 30.00,
+      "features": ["Access to gym during regular hours"]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 50.00,
+      "features": ["Access to gym","Select classes"]
+    },
+    {
+      "id": 3,
+      "name": "VIP Membership",
+      "price": 80.00,
+      "features": ["Access to gym", "Select classes", "Personal training"]
+    }
+  ]
+  
